@@ -45,9 +45,6 @@ git log --oneline --graph --all
 ## Commit message style
 Short, present-tense messages, for example `Add deploy script`.
 
-## Screenshots
-Screenshots of the branches, pull requests and tags are in the `screenshots/` folder.
-
 ## Interview Q&A
 
 **1. What is Git?**
